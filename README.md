@@ -1,2 +1,2 @@
 # Chat-GPT
-Diferents tools and usages with chatgpt
+Diferents tools and uses with chatgpt
